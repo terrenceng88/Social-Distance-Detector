@@ -1,5 +1,5 @@
 # 123A
-123A  repo for social distancers
-By: Connor Stewart, Calvin Stickler
- test2
+123A  repo for social distancers Capstone group for CSE 123AB
+By: Terrence Ng
+
  
